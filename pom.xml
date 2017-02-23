@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>org.springframework.test</groupId>
-	<artifactId>test-sdr-fk-change</artifactId>
+	<artifactId>DATAREST-1001</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencyManagement>
